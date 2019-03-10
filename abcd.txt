@@ -1,3 +1,0 @@
-Hi i am jayabharath reddy
-now i am learning Git and Github
-these all are seful for Terraform
